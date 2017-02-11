@@ -7,7 +7,7 @@ public class TestProject {
 	public static void main(String[] args) {
 
 		Project project = new Project();
-		project.setId("001");
+		project.setId(001);
 		project.setName("MonkeyProject");
 		System.out.println(project);		
 		

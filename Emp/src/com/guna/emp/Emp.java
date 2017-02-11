@@ -1,18 +1,12 @@
 package com.guna.emp;
 
 public class Emp {
-	private String id;
+	private Integer id;
 	private String name;
 	private String location;
 	private Project project;
 
-	public String getId() {
-		return id;
-	}
-
-	public void setId(String id) {
-		this.id = id;
-	}
+	
 
 	public String getName() {
 		return name;
@@ -42,5 +36,15 @@ public class Emp {
 	public void setProject(Project project) {
 		this.project = project;
 	}
+
+	public Integer getId() {
+		return id;
+	}
+
+	public void setId(Integer id) {
+		this.id = id;
+	}
+	
+	
 
 }
