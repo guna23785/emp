@@ -1,4 +1,4 @@
-package com.guna.emp.model;
+package com.guna.empapp.model;
 
 public class Project {
 	private Long id;

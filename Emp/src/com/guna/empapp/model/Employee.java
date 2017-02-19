@@ -1,4 +1,4 @@
-package com.guna.emp.model;
+package com.guna.empapp.model;
 
 public class Employee {
 	private Long id;
@@ -7,7 +7,6 @@ public class Employee {
 	private Project project;
 	private Course course;
 
-	
 	public String getName() {
 		return name;
 	}
@@ -52,7 +51,5 @@ public class Employee {
 	public void setId(Long id) {
 		this.id = id;
 	}
-
-	
 
 }

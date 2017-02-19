@@ -1,6 +1,6 @@
-package test.com.guna.emp.util;
+package test.com.guna.empapp.util;
 
-import com.guna.emp.util.ConnectionUtil;
+import com.guna.empapp.util.ConnectionUtil;
 
 public class TestConnectionUtil {
 

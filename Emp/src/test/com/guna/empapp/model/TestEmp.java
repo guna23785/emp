@@ -1,8 +1,8 @@
-package test.com.guna.emp.model;
+package test.com.guna.empapp.model;
 
-import com.guna.emp.model.Course;
-import com.guna.emp.model.Employee;
-import com.guna.emp.model.Project;
+import com.guna.empapp.model.Course;
+import com.guna.empapp.model.Employee;
+import com.guna.empapp.model.Project;
 
 public class TestEmp {
 

@@ -1,4 +1,4 @@
-package com.guna.emp.util;
+package com.guna.empapp.util;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

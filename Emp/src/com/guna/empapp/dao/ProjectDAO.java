@@ -1,9 +1,10 @@
-package com.guna.project.dao;
+package com.guna.empapp.dao;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
-import com.guna.emp.model.Project;
-import com.guna.emp.util.ConnectionUtil;
+
+import com.guna.empapp.model.Project;
+import com.guna.empapp.util.ConnectionUtil;
 
 public class ProjectDAO {
 	

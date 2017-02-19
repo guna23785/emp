@@ -1,4 +1,4 @@
-package com.guna.emp.dao;
+package com.guna.empapp.dao;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
@@ -6,10 +6,10 @@ import java.sql.ResultSet;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.guna.emp.model.Course;
-import com.guna.emp.model.Employee;
-import com.guna.emp.model.Project;
-import com.guna.emp.util.ConnectionUtil;
+import com.guna.empapp.model.Course;
+import com.guna.empapp.model.Employee;
+import com.guna.empapp.model.Project;
+import com.guna.empapp.util.ConnectionUtil;
 
 public class EmployeeDAO {
 

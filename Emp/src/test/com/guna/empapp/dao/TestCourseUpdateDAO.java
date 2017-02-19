@@ -1,7 +1,8 @@
-package test.com.guna.course.dao;
+package test.com.guna.empapp.dao;
 
-import com.guna.course.dao.CourseUpdateDAO;
-import com.guna.emp.model.Course;
+import com.guna.empapp.dao.CourseDAO;
+
+import com.guna.empapp.model.Course;
 
 public class TestCourseUpdateDAO {
 
@@ -10,7 +11,7 @@ public class TestCourseUpdateDAO {
 		course.setId(2l);
 		course.setName("citrix");
 		
-		CourseUpdateDAO dao = new CourseUpdateDAO();
+		CourseDAO dao = new CourseDAO();
 		dao.save(course);
 		
 	}

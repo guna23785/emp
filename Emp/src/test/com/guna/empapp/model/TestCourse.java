@@ -1,6 +1,6 @@
-package test.com.guna.emp.model;
+package test.com.guna.empapp.model;
 
-import com.guna.emp.model.Course;
+import com.guna.empapp.model.Course;
 
 public class TestCourse {
 

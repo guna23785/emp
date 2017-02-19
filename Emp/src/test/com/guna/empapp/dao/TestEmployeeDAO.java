@@ -1,11 +1,11 @@
-package test.com.guna.emp.dao;
+package test.com.guna.empapp.dao;
 
 import java.util.List;
 
-import com.guna.emp.dao.EmployeeDAO;
-import com.guna.emp.model.Course;
-import com.guna.emp.model.Employee;
-import com.guna.emp.model.Project;
+import com.guna.empapp.dao.EmployeeDAO;
+import com.guna.empapp.model.Course;
+import com.guna.empapp.model.Employee;
+import com.guna.empapp.model.Project;
 
 public class TestEmployeeDAO {
 
